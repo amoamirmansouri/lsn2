@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: fixer
-Version: 0.1
+Version: 0.2
 Home-page: git@github.com:amoamirmansouri/lsn2.git
 License: MIT
-Requires: requests
+Requires: numpy
